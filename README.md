@@ -1,8 +1,9 @@
 # Bio 👋
-Hi my name is Julmer Olivero, I am Husband and Father of 2, right now I'm 40 years old, and I think I come from the stars... but dunow... by the way I am a World Citizen but I born in a little country called Venezuela, also I am a Frontend Web Developer with knowledge about backend too and others technologies or stacks in the server side, I have about 12 years working in this world called Web Development, but not continuously, except for the last 7 years, I like learn every day something new, I wanna put here in github all about I learn, from this moment and show you a piece of my vision about this world, from a perpective of a Web Developer.
+Hi my name is Julmer Olivero, I am Husband and Father of 2, right now I'm 40 years old, and I think I come from the stars... but dunow... by the way I am a World Citizen but I born in a little country called Venezuela, also I am a Frontend Web Developer with knowledge about backend too and others technologies or stacks in the server side, I have about 12 years working in this world called Web Development, but not continuously, except for the last 7 years, I like learn every day something new, I wanna put here in github all about I learn, from this moment and show you a piece of my vision about this world, from a perspective of a Web Developer.
+
 I love the Computer Science, Japanese Animation and Manga, the Japanese Culture, Video Games, Travel, etc.
 
-I’m currently learning about Frontend technologies, Right now I know React and React Native mostly, but I like more Vue than React [xD] and I know a little bit of Angular 4+, but this last one I don't use it, I like learn about other languages and frameworks to expanse my knowledge and always apply to my personal projects.
+I’m currently learning about Frontend technologies and a bit of backend stack, Right now I know React and React Native mostly, but I like more Vue than React [xD] and I know a little bit of Angular 4+, but this last one I don't use it, I like learn about other languages and frameworks to expanse my knowledge and always apply to my personal projects.
 
 I use this to do my Work:
 
