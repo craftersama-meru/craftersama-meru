@@ -101,5 +101,5 @@ There are a large list of things I want, and I want to do/know and many language
 #### Personal Email:
 [![Email](https://img.shields.io/badge/jolivero.03@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jolivero.03@gmail.com)
 
-#### Personal Website:
+#### Personal Website/Online Resume:
 [![https://craftersama.com](https://img.shields.io/badge/Online_Resume-https://craftersama.com-3C5280?style=for-the-badge&logo=craft-cms&logoColor=white&labelColor=101010)](https://craftersama.com)
