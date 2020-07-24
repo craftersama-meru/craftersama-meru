@@ -69,7 +69,7 @@ I use this to do my Work:
 
 There are a large list of things I want, and I want to do/know and many languages and frameworks to learn, but here I put some, not all, maybe I'll update this list with frequency, but dunow yet.
 
-#### Languages to Learn:
+#### Languages or Frameworks I want to Learn:
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
