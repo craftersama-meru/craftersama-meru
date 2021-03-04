@@ -30,7 +30,7 @@ I use this to do my Work:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/PHP-7.3-9cf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/PHP-8cf?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white&labelColor=101010)]()
 
@@ -48,7 +48,7 @@ I use this to do my Work:
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=101010)]()
 [![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo%20graphql&logoColor=white&labelColor=101010)]()
 [![VueJS](https://img.shields.io/badge/VueJS-green?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/Laravel-7-red?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-8-red?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![D3.JS](https://img.shields.io/badge/D3.JS-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white&labelColor=101010)]()
