@@ -60,6 +60,7 @@ I use this to do my Work:
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white&labelColor=101010)]()
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white&labelColor=101010)]()
 [![PS4](https://img.shields.io/badge/PS4-003791?style=for-the-badge&logo=playstation%204&logoColor=white&labelColor=101010)]()
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo%20switch&logoColor=white&labelColor=101010)]()
 [![The Witcher 3](https://img.shields.io/badge/The_Witcher_3-DC0D15?style=for-the-badge&logo=cd%20projekt&logoColor=white&labelColor=101010)]()
 
 
@@ -78,7 +79,7 @@ There are a large list of things I want, and I want to do/know and many language
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 
 #### I Want/Wish:
-[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo%20switch&logoColor=white&labelColor=101010)]()
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo%20switch&logoColor=white&labelColor=101010)]() [Mission Accomplished]
 
 #### I Want To Do/Know:
 [![Know Japan](https://img.shields.io/badge/Know_Japan-B41717?style=for-the-badge&logo=jinja&logoColor=white&labelColor=101010)]()
