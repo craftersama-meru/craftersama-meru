@@ -2,7 +2,7 @@
 
 Hi, I'm Julmer Olivero, I’m a Developer who use Frontend technologies and a bit of backend stacks to do what the most like, coding!.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftersama-meru)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craftersama-meru)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Normally I use this tools to work:
 
